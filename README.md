@@ -357,13 +357,11 @@
             <nav class="bottom-nav">
                 <div class="nav-container">
                     <div class="nav-item" data-page="services">
-        <i class="fas fa-user-tie"></i>
-                        </a>
+                           <i class="fas fa-user-tie"></i>
                         <span>Services</span>
                     </div>
                     <div class="nav-item" data-page="reserve">
                             <i class="fas fa-calendar-check"></i>
-                        </a>
                         <span>Reserve</span>
                     </div>
                     <div class="nav-item whatsapp-item" data-page="chat">
@@ -374,12 +372,10 @@
                     </div>
                     <div class="nav-item" data-page="slot">
                             <i class="fas fa-calendar-alt"></i>
-                        </a>
                      <span>Slot</span>
                    </div>
                    <div class="nav-item" data-page="franchise">
                             <i class="fas fa-store"></i>
-                        </a>
                         <span>Franchise</span>
                     </div>
                 </div>
@@ -662,13 +658,11 @@ function showReserveOverlay(selectedCity = null) {
             <nav class="bottom-nav">
                 <div class="nav-container">
                     <div class="nav-item" data-page="services">
-                            <i class="fas fa-user-tie"></i>
-                        </a>
+                           <i class="fas fa-user-tie"></i>
                         <span>Services</span>
                     </div>
                     <div class="nav-item" data-page="reserve">
                             <i class="fas fa-calendar-check"></i>
-                        </a>
                         <span>Reserve</span>
                     </div>
                     <div class="nav-item whatsapp-item" data-page="chat">
@@ -678,13 +672,11 @@ function showReserveOverlay(selectedCity = null) {
                         <span>WhatsApp</span>
                     </div>
                     <div class="nav-item" data-page="slot">
-                    <i class="fas fa-calendar-alt"></i>
-                        </a>
-                      <span>Slot</span>
-                    </div>
-                    <div class="nav-item" data-page="franchise">
+                            <i class="fas fa-calendar-alt"></i>
+                     <span>Slot</span>
+                   </div>
+                   <div class="nav-item" data-page="franchise">
                             <i class="fas fa-store"></i>
-                        </a>
                         <span>Franchise</span>
                     </div>
                 </div>
